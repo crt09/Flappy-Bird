@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/YNT/source/repos/FlappyBirdGame/FlappyBirdGame/Content/background-day.png</File>
+    <File>C:/Users/YNT/source/repos/FlappyBirdGame/FlappyBirdGame/Content/background-night.png</File>
+    <File>C:/Users/YNT/source/repos/FlappyBirdGame/FlappyBirdGame/Content/bird/yellowbird-downflap.png</File>
+    <File>C:/Users/YNT/source/repos/FlappyBirdGame/FlappyBirdGame/Content/bird/yellowbird-midflap.png</File>
+    <File>C:/Users/YNT/source/repos/FlappyBirdGame/FlappyBirdGame/Content/bird/yellowbird-upflap.png</File>
+    <File>C:/Users/YNT/source/repos/FlappyBirdGame/FlappyBirdGame/Content/entities/base.png</File>
+    <File>C:/Users/YNT/source/repos/FlappyBirdGame/FlappyBirdGame/Content/entities/pipe.png</File>
+    <File>C:/Users/YNT/source/repos/FlappyBirdGame/FlappyBirdGame/Content/sounds/die.wav</File>
+    <File>C:/Users/YNT/source/repos/FlappyBirdGame/FlappyBirdGame/Content/sounds/hit.wav</File>
+    <File>C:/Users/YNT/source/repos/FlappyBirdGame/FlappyBirdGame/Content/sounds/point.wav</File>
+    <File>C:/Users/YNT/source/repos/FlappyBirdGame/FlappyBirdGame/Content/sounds/wing.wav</File>
+    <File>C:/Users/YNT/source/repos/FlappyBirdGame/FlappyBirdGame/Content/ui/gameover.png</File>
+    <File>C:/Users/YNT/source/repos/FlappyBirdGame/FlappyBirdGame/Content/ui/message.png</File>
+    <File>C:/Users/YNT/source/repos/FlappyBirdGame/FlappyBirdGame/Content/ui/numbers/0.png</File>
+    <File>C:/Users/YNT/source/repos/FlappyBirdGame/FlappyBirdGame/Content/ui/numbers/1.png</File>
+    <File>C:/Users/YNT/source/repos/FlappyBirdGame/FlappyBirdGame/Content/ui/numbers/2.png</File>
+    <File>C:/Users/YNT/source/repos/FlappyBirdGame/FlappyBirdGame/Content/ui/numbers/3.png</File>
+    <File>C:/Users/YNT/source/repos/FlappyBirdGame/FlappyBirdGame/Content/ui/numbers/4.png</File>
+    <File>C:/Users/YNT/source/repos/FlappyBirdGame/FlappyBirdGame/Content/ui/numbers/5.png</File>
+    <File>C:/Users/YNT/source/repos/FlappyBirdGame/FlappyBirdGame/Content/ui/numbers/6.png</File>
+    <File>C:/Users/YNT/source/repos/FlappyBirdGame/FlappyBirdGame/Content/ui/numbers/7.png</File>
+    <File>C:/Users/YNT/source/repos/FlappyBirdGame/FlappyBirdGame/Content/ui/numbers/8.png</File>
+    <File>C:/Users/YNT/source/repos/FlappyBirdGame/FlappyBirdGame/Content/ui/numbers/9.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
